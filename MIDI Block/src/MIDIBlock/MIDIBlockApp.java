@@ -9,8 +9,10 @@ public class MIDIBlockApp {
 			
 			@Override
 			public void run() {
+				
 				MIDIBlockGUI MIDIBlock = new MIDIBlockGUI();
 				MIDIBlock.setVisible(true);
+				MIDIBlock.repaint();
 				//MIDIPlaySound soundtest = new MIDIPlaySound();
 				//soundtest.playSound("500Hz.wav");
 				

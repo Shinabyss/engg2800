@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="D:/Uni/2015/Semester 2/ENGG2800/MIDILib/jfugue-5.0.2.jar"/>
 	<classpathentry kind="lib" path="D:/Uni/2015/Semester 2/ENGG2800/MIDILib/jMusic1.6.4.jar"/>
 	<classpathentry kind="lib" path="D:/Uni/2015/Semester 2/ENGG2800/MIDILib/promidi/library/promidi.jar"/>
+	<classpathentry kind="lib" path="D:/Uni/2015/Semester 2/ENGG2800/MIDILib/seaglasslookandfeel-0.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
